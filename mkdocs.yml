@@ -1,5 +1,5 @@
 site_name: My MkDocs API Documentation
-site_description: Учебный сайт с документацией API, опубликованный через GitHub Pages.
+site_description: Учебный сайт с документацией API, опубликованный через GitHub Pages
 theme: material
 
 nav:
